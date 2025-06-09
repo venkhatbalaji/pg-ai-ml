@@ -1,5 +1,3 @@
-fuel,meter_reading
-10,200000
-11.6,180000
-17.9,355000
-18.6,300000
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ee77f076a01182ed6081be8bbee2bbb00d2ff1f0c7fa318d2a10b2588d18820
+size 70

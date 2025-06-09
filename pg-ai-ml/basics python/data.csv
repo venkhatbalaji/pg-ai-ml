@@ -1,6 +1,3 @@
-Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Purpose
-25,Male,Skilled,Own,Little,Little,5000,Car
-34,Female,Unskilled & Non-resident,Rent,Moderate,Moderate,10000,Education
-45,Male,Highly Skilled,Free,Rich,Rich,15000,Business
-29,Female,Skilled,Own,Quite Rich,Moderate,8000,Furniture/Equipment
-52,Male,Unskilled & Non-resident,Rent,Moderate,Little,12000,Vacation/Others
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ef6574b3f6e57147aea73818ee4eedc70648c96c2c9e92dffc8b05c48a51469
+size 394
